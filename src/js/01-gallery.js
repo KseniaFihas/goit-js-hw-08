@@ -30,7 +30,3 @@ new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 
-galleryImages.append(...items);
-
-
-new SimpleLightbox('.gallery a', { captionDelay : 250});
